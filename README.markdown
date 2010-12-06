@@ -1,3 +1,5 @@
+# First App - just making some pointless changes to attempt a commit
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
